@@ -1,0 +1,16 @@
+{
+  "rendaTotal": 500.90,
+  "dependentes": [
+    {
+      "nome": "Teste 17",
+      "idade": 17
+    },
+    {
+      "nome": "Teste 16",
+      "idade": 16
+    }, {
+      "nome": "Teste 18",
+      "idade": 18
+    }
+  ]
+}
